@@ -1,0 +1,10 @@
+{
+    "version": "3.0.2-SNAPSHOT",
+    "git": {
+        "branch": "develop",
+        "latestCommit": "377be19c06fc8ebc2e429a17f5ba012388faeaa6",
+        "shortHash": "377be19c",
+        "message": "TFM 5468 Vehicle History: Additional information added during Transgr… (#713)",
+        "date": "2026-02-23T10:55:30+02:00"
+    }
+}
