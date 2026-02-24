@@ -1,10 +1,10 @@
 {
     "version": "3.0.2-SNAPSHOT",
     "git": {
-        "branch": "develop",
-        "latestCommit": "377be19c06fc8ebc2e429a17f5ba012388faeaa6",
-        "shortHash": "377be19c",
-        "message": "TFM 5468 Vehicle History: Additional information added during Transgr… (#713)",
-        "date": "2026-02-23T10:55:30+02:00"
+        "branch": "Test-barcode-scanner",
+        "latestCommit": "a7121bcc0784e0136fe974491460a8d315ff9c76",
+        "shortHash": "a7121bcc",
+        "message": "WIP",
+        "date": "2026-02-24T12:17:36+02:00"
     }
 }
