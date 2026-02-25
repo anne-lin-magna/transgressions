@@ -1,7 +1,7 @@
 {
     "version": "3.0.2-SNAPSHOT",
     "git": {
-        "branch": "Test-barcode-scanner",
+        "branch": "Test-version",
         "latestCommit": "03b5bb83a2a03ed66caedeb8f470c9151b668499",
         "shortHash": "03b5bb83",
         "message": "Revert camera resolution attempt",
