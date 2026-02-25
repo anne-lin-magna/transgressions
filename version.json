@@ -2,9 +2,9 @@
     "version": "3.0.2-SNAPSHOT",
     "git": {
         "branch": "Test-barcode-scanner",
-        "latestCommit": "509477360cfd91dacb97af60ce5aa7a49572bccd",
-        "shortHash": "50947736",
-        "message": "Improved barcode scanner and barcode parser",
-        "date": "2026-02-25T12:20:41+02:00"
+        "latestCommit": "03b5bb83a2a03ed66caedeb8f470c9151b668499",
+        "shortHash": "03b5bb83",
+        "message": "Revert camera resolution attempt",
+        "date": "2026-02-25T13:18:20+02:00"
     }
 }
