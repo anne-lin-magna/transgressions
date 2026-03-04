@@ -568,28 +568,6 @@
     "vehicleHeightLabel": "Voertuighoogte",
     "allowedHeightLabel": "Toegelate hoogte",
     "overHeightLabel": "Oorhoogte",
-    "allowedHeightValidationMessage": "Voertuighoogte moet groter wees as die toegelate hoogte",
-    "barcodeScanner": {
-      "menuTitle": "Mobiele Oortredings",
-      "title": "Mobiele Oortredings",
-      "tapToScan": "Tik op die ikoon om 'n strepieskode te skandeer",
-      "scanning": "Soek na strepieskode...",
-      "resultTitle": "Strepieskode Geskandeer",
-      "format": "Formaat",
-      "scanAgain": "Tik om weer te skandeer",
-      "cameraError": "Kan nie toegang tot die kamera kry nie. Kontroleer asseblief toestemmings."
-    },
-    "adjudicationActivityLog": "Beoordelingsaktiwiteitslogboek",
-    "adjudicationStarted": "Beoordeling het begin",
-    "adjudicationCompleted": "Beoordeling voltooi",
-    "adjudicationCancelled": "Beoordeling gekanselleer",
-    "userConnected": "Gebruiker het aangesluit",
-    "userDisconnected": "Gebruiker het verlaat",
-    "startedAdjudicating": "het begin om te beoordeel",
-    "completedAdjudicationFor": "het beoordeling voltooi vir",
-    "abortedAdjudicationFor": "het beoordeling gekanselleer vir",
-    "joinedTheSession": "het by die sessie aangesluit",
-    "leftTheSession": "het die sessie verlaat",
-    "noActivitiesYet": "Nog geen aktiwiteite nie."
+    "allowedHeightValidationMessage": "Voertuighoogte moet groter wees as die toegelate hoogte"
   }
 }
