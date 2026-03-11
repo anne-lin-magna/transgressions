@@ -59,5 +59,12 @@
   },
   "weighbridge": {
     "id": "f25ddc50-e564-3e0b-9c13-7908ccca2cf9"
+  },
+  "features": {
+    "enableRtqsTransgressions": true,
+    "enableMobileTransgressions": true,
+    "enableSubmissionAndAdjudication": true,
+    "enableCourt": true,
+    "enableWarrantOfArrest": true
   }
 }

@@ -381,8 +381,9 @@
     "transgressions": "違規",
     "submissionAndAdjudication": "提交與裁決",
     "court": "法院",
-    "find": "查找",
-    "submission": "提交",
+    "find": "Ÿ‰",
+    "filter": "篩選",
+    "submission": "",
     "adjudication": "裁決",
     "search": "搜索",
     "view": "查看",
@@ -422,6 +423,18 @@
     "Oontrol copy printed": "控制副本已打印",
     "Charge sheet printed": "收費單已打印",
     "Created - not printed": "已創建 - 未打印",
-    "Submission registered": "提交已註冊"
+    "Submission registered": "提交已註冊",
+    "scanDisc": "掃描車牌",
+    "scanLicence": "掃描駕照",
+    "cameraError": "相機出現問題。請確保您已授予相機訪問權限，然後重試。",
+    "cameraPermissionDenied": "相機訪問被拒絕。請在瀏覽器設置中啟用相機權限，然後重試。",
+    "barcodeScanningInstruction": "將條碼保持在螢幕中央，靜止幾秒鐘即可掃描",
+    "barcodeLazerScanningInstruction": "請使用激光掃描儀掃描{{barcodeType}}",
+    "drivingLicence": "駕駛執照",
+    "vehicleDisc": "車輛牌照",
+    "back": "返回",
+    "useCamera": "使用相機",
+    "populatingFields": "正在填充欄位...",
+    "createMobile": "創建移動違規"
   }
 }

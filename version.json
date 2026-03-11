@@ -1,10 +1,10 @@
 {
-    "version": "3.0.2-SNAPSHOT",
+    "version": "3.0.1",
     "git": {
-        "branch": "Test-barcode-scanner",
-        "latestCommit": "03b5bb83a2a03ed66caedeb8f470c9151b668499",
-        "shortHash": "03b5bb83",
-        "message": "Revert camera resolution attempt",
-        "date": "2026-02-25T13:18:20+02:00"
+        "branch": "FE-Mobile-Transgressions",
+        "latestCommit": "c3420f97a6353e4eb295f173fa55b0da92c78e87",
+        "shortHash": "c3420f97",
+        "message": "TFM-5599 Transgression / Charge Sheet Document: Place & Location (at/… (#735)",
+        "date": "2026-03-11T08:57:54+02:00"
     }
 }
