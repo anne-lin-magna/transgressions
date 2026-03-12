@@ -435,6 +435,9 @@
     "back": "返回",
     "useCamera": "使用相機",
     "populatingFields": "正在填充欄位...",
-    "createMobile": "創建移動違規"
+    "testCamera": "測試相機",
+    "scanResult": "掃描結果",
+    "parsedFields": "解析欄位",
+    "format": "格式"
   }
 }

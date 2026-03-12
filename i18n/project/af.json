@@ -316,7 +316,6 @@
     "updateCourtRegisterSubtitle": "Toesighouer-magtiging word vereis om die hofregister te druk",
     "menuWeighbridgesTooltip": "Weegbrûe",
     "transgressions": "Oortredings",
-    "createMobile": "Skep Mobiele Oortreding",
     "court": "Hof",
     "find": "Vind",
     "filter": "Filter",
@@ -603,6 +602,10 @@
     "retry": "Herprobeer",
     "gpsWarningTitle": "GPS-ligging vereis",
     "continueWithoutGps": "Gaan voort sonder GPS",
-    "refresh": "Herlaai"
+    "refresh": "Herlaai",
+    "testCamera": "Toets Kamera",
+    "scanResult": "Skandeerresultaat",
+    "parsedFields": "Ontlede Velde",
+    "format": "Formaat"
   }
 }

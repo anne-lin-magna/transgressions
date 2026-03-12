@@ -562,7 +562,6 @@
     "mobileTransgressionList": "Mobile Transgression List",
     "mobileTransgressionCreate": "Create Mobile Transgression",
     "mobileTransgressionDetails": "Mobile Transgression Details",
-    "createMobile": "Create Mobile Transgression",
     "scanDisc": "Scan Disc",
     "scanLicence": "Scan Licence",
     "cameraError": "There was an issue with the camera. Please ensure you have given permission to access the camera and try again.",
@@ -587,6 +586,10 @@
     "retry": "Retry",
     "gpsWarningTitle": "GPS Location Required",
     "continueWithoutGps": "Continue Without GPS",
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "testCamera": "Test Camera",
+    "scanResult": "Scan Result",
+    "parsedFields": "Parsed Fields",
+    "format": "Format"
   }
 }
